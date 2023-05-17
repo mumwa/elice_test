@@ -1,0 +1,19 @@
+{
+  "name": "elice_test",
+  "version": "1.0.0",
+  "description": "elice test repo I love git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mumwa/elice_test.git"
+  },
+  "author": "mumwa <hy0903@yonsei.ac.kr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mumwa/elice_test/issues"
+  },
+  "homepage": "https://github.com/mumwa/elice_test#readme"
+}
